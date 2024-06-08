@@ -10,4 +10,4 @@ c) Lo que paso en este codigo, comentado o sin comentar, es que igualmente exist
 
 
 punto b)
-[2b](https://github.com/Manuderiver/ASO2024TPs/blob/main/TP3/imagenes/comensal%201%20(1).png)
+![2b](https://github.com/Manuderiver/ASO2024TPs/blob/main/TP3/imagenes/comensal%201%20(1).png)
